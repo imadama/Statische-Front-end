@@ -1,0 +1,11 @@
+body  {
+  padding-left: 40px;
+  padding-bottom: 100px;
+  border: dashed darkred 20px; 
+  background-color: rgb(237, 237, 214);
+  margin: 40px;
+}
+. div {
+  height: 400px;
+  width: 300px;
+}   

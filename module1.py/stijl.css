@@ -1,0 +1,15 @@
+body { 
+    border-style: solid;
+    border-color: moccasin;
+}  
+
+div { 
+    background-color: gray;
+}
+
+a:hover {
+    color: beige;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
